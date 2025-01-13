@@ -1,0 +1,8 @@
+.vscode
+
+# Frontend
+node_modules
+
+# Backend
+.venv
+__pycache__
